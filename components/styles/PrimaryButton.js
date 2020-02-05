@@ -7,6 +7,7 @@ const PrimaryButton = styled.button`
   color: #ef7775;
   width: 85px;
   height: 35px;
+  font-family: 'Poppins', sans-serif;
 
   &:hover {
     cursor: pointer;
